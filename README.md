@@ -6,7 +6,7 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Fatmats&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmats&layout=compact)]
 
 
 <!--Here are some ideas to get you started:
